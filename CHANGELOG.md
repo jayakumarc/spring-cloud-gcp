@@ -14,6 +14,13 @@ refer to the [commit
 history](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/commits/main)
 on GitHub.
 
+## [5.1.1](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/compare/v5.1.0...v5.1.1) (2024-03-21)
+
+
+### Bug Fixes
+
+* Update README.adoc on doc versions ([#2724](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/issues/2724)) ([10fd702](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/commit/10fd702c18ca39e9f030050c87993377e8ba7041))
+
 ## [5.1.0](https://github.com/GoogleCloudPlatform/spring-cloud-gcp/compare/v5.0.4...v5.1.0) (2024-03-12)
 
 
